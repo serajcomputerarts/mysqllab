@@ -6,7 +6,6 @@ Welcome to the **MySQL Lab Files** repository! This repository contains MySQL sc
 ## Table of Contents
 
 - [Overview](#overview)
-- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Lab Exercises](#lab-exercises)
 - [How to Use](#how-to-use)
@@ -17,14 +16,7 @@ Welcome to the **MySQL Lab Files** repository! This repository contains MySQL sc
 
 This repository contains a collection of lab exercises for learning and practicing MySQL. It covers topics ranging from basic SQL commands to more advanced database concepts like joins, indexing, and transactions. Each lab file includes both the SQL code and a description of the tasks, allowing you to understand the context and purpose of each exercise.
 
-## Getting Started
 
-To get started with these lab files, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/mysql-lab-files.git
-cd mysql-lab-files
-```
 
 ## Prerequisites
 
